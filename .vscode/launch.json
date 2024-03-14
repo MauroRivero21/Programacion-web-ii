@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ComercialApplication<comercial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.desarollo.comercial.ComercialApplication",
+            "projectName": "comercial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
